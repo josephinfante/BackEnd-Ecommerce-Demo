@@ -1,5 +1,5 @@
 # BackEnd-Ecommerce-Demo
-You must have install sql and java
+You must have installed sql and java
 
 ##To open the following project you will need eclipse or spring suite tool
 
